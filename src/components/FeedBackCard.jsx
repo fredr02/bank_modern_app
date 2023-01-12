@@ -1,9 +1,7 @@
-import React from 'react'
+import React from 'react';
 
 const FeedBackCard = () => {
-  return (
-    <div>FeedBackCard</div>
-  )
-}
+  return <div>FeedBackCard</div>;
+};
 
-export default FeedBackCard
+export default FeedBackCard;
